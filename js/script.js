@@ -11,10 +11,11 @@ $(document).ready(function(){
 	        
 
 	// Carousel
-	// $('.carousel.carousel-slider').carousel({
-	// 	fullWidth: true,
-	// 	indicators: true
-	// });
+	$('.carousel.carousel-slider').carousel({
+		fullWidth: true,
+		indicators: true
+	});
+
 	$('.slider').slider({
 		height: 250
 	});
@@ -22,10 +23,17 @@ $(document).ready(function(){
 	// Autocomplete
     $('input.autocomplete').autocomplete({
       data: {
-        "Apple": null,
-        "Microsoft": null,
-        "Google": 'https://placehold.it/250x250'
+        "Museu Caixa Cultural": null,
+		"Museu da Fotografia": null,
+		"Museu de Arte Conteporanea": null,
+		"Museu da Industria": null,
+		"Museu de Arte UFC": null,
+		"Museu do Ceará": null,
+		"Espaço Cultural Unifor": null,
+		"Museu da Boneca de Pano": null,
+		"Museu do Automóvel": null
       },
     });
 
+    $('.collapsible').collapsible();
 });	
