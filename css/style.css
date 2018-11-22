@@ -1,0 +1,53 @@
+.carousel-item img {
+	width: 360px;
+	height: 200px;
+}
+
+nav .brand-logo.left.main-title-page {
+	left: 5.5rem;
+}
+
+
+ul.sidenav li a.sidenav-close {
+	padding-right: 0;
+}
+
+ul.sidenav li a.sidenav-close i {
+	margin-right: 20px;
+}
+/*
+div.close-button {
+	line-height: 48px;
+}*/
+
+/*div.close-button a {
+	color: rgba(0,0,0,0.87);
+	display: block;
+	font-size: 14px;
+	font-weight: 500;
+	height: 48px;
+	line-height: 48px;
+	padding: 0 0 32px 32px;
+}
+
+div.close-button a i {
+	height: 48px;
+	line-height: 48px;
+	margin: 0 32px 0 0;
+    margin-right: 20px;
+	width: 24px;
+	color: rgba(0,0,0,0.54);
+}*/
+
+#search-slide-out {
+	width: 100%;
+}
+
+#search-box {
+	margin: 3rem 3rem 1rem 1rem;
+}
+
+.slider .slides li .caption {
+	top: 70%;
+	left: 5%;
+}
