@@ -42,31 +42,31 @@ $(document).ready(function(){
 
     	switch (museu) {
     		case "Museu Caixa Cultural":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/museu-caixa-cultural.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-caixa-cultural.html";
     			break;
     		case "Museu da Fotografia":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/museu-fotografia-fortaleza.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-fotografia-fortaleza.html";
     			break;
     		case "Museu de Arte Conteporanea":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     		case "Museu da Industria":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     		case "Museu de Arte UFC":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/mauc.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/mauc.html";
     			break;
     		case "Museu do Ceará":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     		case "Espaço Cultural Unifor":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     		case "Museu da Boneca de Pano":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     		case "Museu do Automóvel":
-    			window.location = "file:///C:/Users/William/Projetos/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
     			break;
     	}
     });
