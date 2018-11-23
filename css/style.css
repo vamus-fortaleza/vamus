@@ -99,6 +99,10 @@ div.card .card-content.mini-card-content {
 	min-height: 5rem;
 }
 
+div.row .col.card-page-index {
+	padding: 0 .3rem;
+}
+
 /*.card .card-image img {
 	height: 8rem;
 }*/
