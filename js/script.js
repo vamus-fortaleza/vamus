@@ -48,25 +48,25 @@ $(document).ready(function(){
     			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-fotografia-fortaleza.html";
     			break;
     		case "Museu de Arte Conteporanea":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-de-arte-contemporanea.html";
     			break;
     		case "Museu da Industria":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-da-industria.html";
     			break;
     		case "Museu de Arte UFC":
     			window.location = "https://williammeneses.github.io/projeto-integrado-1/mauc.html";
     			break;
     		case "Museu do Ceará":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-do-ceara.html";
     			break;
     		case "Espaço Cultural Unifor":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/espaco-cultural-unifor.html";
     			break;
     		case "Museu da Boneca de Pano":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-da-boneca-de-pano.html";
     			break;
     		case "Museu do Automóvel":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/sem-info.html";
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-do-automovel.html";
     			break;
     	}
     });
