@@ -1,0 +1,28 @@
+{
+	"name": "Museu Caixa Cultural",
+	"rating": "4.8",
+	"address": "Av. Pessoa Anta, 287 - Praia de Iracema, 60060188 - Fortakeza - CE",
+	"schedule": {
+		"DOM": "12:00 - 19:00",
+		"SEG": "Fechado",
+		"TER": "10:00 - 20:00",
+		"QUA": "10:00 - 20:00",
+		"QUI": "10:00 - 20:00",
+		"SEX": "10:00 - 20:00",
+		"SAB": "10:00 - 20:00"
+	},
+	"contact": {
+		"phone1": "(085) 3453-2770",
+		"phone2": "",
+		"email": "caixacultural.ce@caixa.gov.br"
+
+	},
+	"site": "http://www.caixacultural.com.br",
+	"location": {},
+	"image1": "src='images/museu-caixa-cultural-0001.jpg'",
+	"image2": "src='images/museu-caixa-cultural-0002.jpg'",
+	"image3": "src='images/museu-caixa-cultural-0003.jpg'",
+	"image4": "src='images/museu-caixa-cultural-0004.jpg'",
+
+	"url:": "",
+}
