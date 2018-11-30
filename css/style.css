@@ -130,3 +130,20 @@ div.row .col.card-page-index {
 /*.card .card-image img {
 	height: 8rem;
 }*/
+
+p a {
+	color: #ee6e73;
+}
+
+.rate-large i.tiny {
+	font-size: 1.3rem;
+}
+
+.card .card-content p.rate-large {
+	font-size: 1.3rem;
+	margin-bottom: 10px;
+}
+
+nav .brand-logo.left.main-title-page.left-3 {
+	left: 3rem;
+}
