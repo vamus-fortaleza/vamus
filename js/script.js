@@ -33,7 +33,8 @@ $(document).ready(function(){
 		"Museu do Ceará": null,
 		"Espaço Cultural Unifor": null,
 		"Museu da Boneca de Pano": null,
-		"Museu do Automóvel": null
+		"Museu do Automóvel": null,
+        "Escola de Artes e Ofícios Thomaz Pompeu Sobrinho": null
       },
       limit: 5
     });
@@ -68,8 +69,11 @@ $(document).ready(function(){
     		case "Museu da Boneca de Pano":
     			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-da-boneca-de-pano.html";
     			break;
-    		case "Museu do Automóvel":
-    			window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-do-automovel.html";
+            case "Museu do Automóvel":
+                window.location = "https://williammeneses.github.io/projeto-integrado-1/museu-do-automovel.html";
+                break;
+    		case "Escola de Artes e Ofícios Thomaz Pompeu Sobrinho":
+    			window.location = "https://williammeneses.github.io/projeto-integrado-1/escola-artes-thomaz-pompeu-sobrinho.html";
     			break;
     	}
     });
