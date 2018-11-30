@@ -1,3 +1,7 @@
+a {
+	color: #000;
+}
+
 /* HEADERBAR */
 .menu-container {
 	width: 100%;
@@ -76,9 +80,24 @@ div.close-button a i {
 	margin: 3rem 3rem 1rem 1rem;
 }
 
+.slider {
+	height: 260px;
+}
+
 .slider .slides li .caption {
-	top: 70%;
+	top: 65%;
 	left: 5%;
+}
+
+.slider .indicators {
+	position: relative;
+    top: -25px;
+    z-index: 10;
+}
+
+.slider .indicators .indicator-item {
+	height: 10px;
+    width: 10px;
 }
 
 .footer-copyright {
@@ -86,6 +105,10 @@ div.close-button a i {
 	padding-bottom: 1rem;
 }
 
+.card.hoverable {
+	margin-top: 0;
+	margin-bottom: 0;
+}
 
 div.card .card-image img.mini-image {
 	height: 8rem;
@@ -102,6 +125,7 @@ div.card .card-content.mini-card-content {
 div.row .col.card-page-index {
 	padding: 0 .3rem;
 }
+
 
 /*.card .card-image img {
 	height: 8rem;
