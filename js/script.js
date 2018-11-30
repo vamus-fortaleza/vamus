@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
     $('#menu-slide-out').sidenav();
 
@@ -8,17 +7,21 @@ $(document).ready(function(){
 
 	// Dropdown
 	$(".dropdown-trigger").dropdown();
-	        
-
-	// Carousel
-	$('.carousel.carousel-slider').carousel({
-		fullWidth: true,
-		indicators: true
-	});
 
 	$('.slider').slider({
 		height: 250
 	});
+
+    $('#search-btn').click(function() {
+        $.ajax({
+            url: "#",
+            type: "GET",
+            dataType: "Json",
+            success: function(result) {
+            }
+        });
+    });
+
 
     $('input.autocomplete').autocomplete({
       data: {
